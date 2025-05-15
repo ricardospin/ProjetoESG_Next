@@ -1,4 +1,4 @@
-Tecnologias Utilizadas
+Tecnologias Utilizadas </br>
 Next.js: Utilizado para criação das páginas, roteamento e estrutura do projeto, aproveitando a renderização híbrida (SSG/SSR).
 
 React: Componentização da interface, gerenciamento de estado simples e interatividade.
